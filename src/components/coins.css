@@ -3,7 +3,7 @@
   height: 500px;
 }
 
- .filtersContainer {
+.filtersContainer {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -19,7 +19,7 @@
   color: white;
 }
 
- .route {
+.route {
   width: 50%;
 }
 
@@ -76,7 +76,7 @@ ul {
   font-size: 17px;
 }
 
- .backBttn {
+.backBttn {
   width: 100%;
   justify-content: flex-start;
-}  
+}

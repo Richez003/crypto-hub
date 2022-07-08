@@ -14,8 +14,8 @@ This React capstone project is about building a mobile web application to check 
 
 
 
-## Live preview
-[preview](https://deploy-preview-6--symphonious-churros-74444f.netlify.app/)
+## Live previewhttps://deploy-preview-6--sympho
+[preview](https://crypto-hub1111.herokuapp.com/)
 ## Install
 
 To get a local copy up and running follow these simple example steps.
