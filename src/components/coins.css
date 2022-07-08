@@ -78,5 +78,6 @@ ul {
 
 .backBttn {
   width: 100%;
-  justify-content: flex-start;
+ margin: 0;
+ margin-right: 70rem;
 }
