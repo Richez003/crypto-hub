@@ -3,12 +3,13 @@
   height: 500px;
 }
 
-.filtersContainer {
+ .filtersContainer {
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 15px;
-  color: rgb(1, 1, 1);
+  color: white;
+  background-color: #35548b;
   padding: 5px 10px;
 }
 
@@ -18,7 +19,7 @@
   color: white;
 }
 
-.route {
+ .route {
   width: 50%;
 }
 
@@ -30,27 +31,27 @@ ul {
 }
 
 .coinsContainer ul a:nth-child(4n+1) {
-  background-color: #836432;
+  background-color: #4066ad;
   color: white;
 }
 
 .coinsContainer ul a:nth-child(4n) {
-  background-color: #836432;
+  background-color: #4066ad;
   color: white;
 }
 
 .coinsContainer ul a:nth-child(4n-1) {
-  background-color: #654a1e;
+  background-color: #4872c2;
   color: white;
 }
 
 .coinsContainer ul a:nth-child(4n-2) {
-  background-color: #654a1e;
+  background-color: #4872c2;
   color: white;
 }
 
 .detailContainer {
-  background-color: #836432;
+  background-color: #5689e5;
   height: 85vh;
   color: white;
   text-align: center;
@@ -65,7 +66,7 @@ ul {
 .infoContainer {
   width: 70%;
   height: 50px;
-  background-color: #654a1e;
+  background-color: #3e64ab;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -75,9 +76,7 @@ ul {
   font-size: 17px;
 }
 
-.backBttn {
+ .backBttn {
   width: 100%;
-  display: flex;
-  justify-content: start;
-  padding-left: 10%;
-}
+  justify-content: flex-start;
+}  
