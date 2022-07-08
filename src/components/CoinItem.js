@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import'./coinItem.css';
+import './coinItem.css';
 
 const CoinItem = ({
   coinId, coinName, coinValue, filter,
