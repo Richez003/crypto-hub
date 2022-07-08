@@ -9,8 +9,8 @@ This React capstone project is about building a mobile web application to check 
 - Redux
 - React
 ## Sample images
-![screenshot](./src/images/Screenshot1)
-![screenshot](./src/images/Screenshot2)
+![screenshot](./src/images/Screenshot1.png)
+![screenshot](./src/images/Screenshot2.png)
 
 
 
