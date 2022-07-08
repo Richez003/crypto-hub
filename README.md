@@ -8,9 +8,13 @@ This React capstone project is about building a mobile web application to check 
 - JavaScript
 - Redux
 - React
+## Sample images
+![screenshot](./src/images/Screenshot1)
+![screenshot](./src/images/Screenshot2)
 
 
-## Live
+
+## Live preview
 [preview](https://deploy-preview-6--symphonious-churros-74444f.netlify.app/)
 ## Install
 
@@ -35,7 +39,11 @@ To get a local copy up and running follow these simple example steps.
 <a href = "https://github.com/Richez003"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>
 
+# Attributions
+
+- Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
 ## 🤝 Contributing
+
 
 Contributions, issues, and feature requests are welcome!
 
