@@ -14,7 +14,7 @@ const CoinsDetail = () => {
       <div className="infoContainer">
         <p className="detailInfo">
           {`${coins[active].coin_id} `}
-          -
+          
           {` ${coins[active].coin_name}`}
         </p>
       </div>
