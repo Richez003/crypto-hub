@@ -16,6 +16,9 @@ This React capstone project is about building a mobile web application to check 
 
 ## Live previewhttps://deploy-preview-6--sympho
 [preview](https://crypto-hub1111.herokuapp.com/)
+
+## Presentation 
+[video](https://www.loom.com/share/679250b26c9f4d0c8c636bff1185c487)
 ## Install
 
 To get a local copy up and running follow these simple example steps.
